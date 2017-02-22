@@ -13,7 +13,7 @@
     "island-collections": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-collections.git#update",
     "island-events": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-events.git#update",
     "island-search": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-search.git#update",
-    "mongish": "git+https://github.com/sanderpick/mongish.git#update",
+    "mongish": "git+https://github.com/sanderpick/mongish.git#develop",
     "redis": "^2.6.5",
     "step": "1.0.0",
     "underscore": "~1.8.3"
