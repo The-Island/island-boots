@@ -9,8 +9,8 @@
   "main": "lib/boots",
   "dependencies": {
     "express": "^4.14.1",
-    "@islandio/collections": "^0.0.3",
-    "@islandio/events": "^0.0.3",
+    "@islandio/collections": "^0.0.4",
+    "@islandio/events": "^0.0.4",
     "@islandio/search": "^0.0.3",
     "mongish": "^2.0.1",
     "redis": "^2.6.5",
